@@ -1,0 +1,7 @@
+{
+  "name": "ion-accordion-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
